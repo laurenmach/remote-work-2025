@@ -213,4 +213,13 @@ HRNUMHOU_c_3 	52.72% 	household size 3-4
 
 Screenshots of the Ordinary Least Squares linear regressions are provided below. If you are unable to access the screenshots, see the full data writeup in the thesis file.
 
+### Training model results, 30% of full dataset
 ![Screenshot of OLS linear regression on 30% train section of the full dataset](/OLS/ols_train.png)
+
+
+### Top16 model
+![Screenshot of OLS linear regression on people where one or more top16 variable = 1](/OLS/ols_top16.png)
+
+
+### Top25 model
+![Screenshot of OLS linear regression on people where one or more top25 variable = 1](/OLS/ols_top25.png)
