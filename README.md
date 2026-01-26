@@ -1,15 +1,14 @@
 # Regression Analysis of Remote Work Participation
-This is my 2025 Masters in Data Science thesis for Western Governor's University, _Regression Analysis of Remote Work Participation_. The presentation is designed for a non-technical audience and goes through the research process, including:
+This is my 2025 Masters in Data Science thesis for Western Governor's University, _Regression Analysis of Remote Work Participation_. 
 
-    Background and problem
-    Research question and hypothesis
-    Data source
-    Population selection process
-    Comparison of target population to full dataset
-    Linear regression results and findings
-    Limitations
-    Suggestions for further research
-    Implications for business
+## Using This Repository
+Python files with detailed code comments are in the /code folder in order from data extraction to regression results. 
+
+The /OLS folder contains the results of the Ordinary Least Squares linear regression in summary and csv form.
+
+The /MCA folder contains the output eigenvalues and MCA data.
+
+The /variables folder containes limited variable data. Original data files, even broken down into sections, exceed the upload limits. Source data can be downloaded directly from public Bureau of Labor Statistics archives and extracted using /code/1-thesis-extract-data.ipynb 
 
 ## Executive Summary 
 
@@ -26,8 +25,6 @@ The _American Time Use Survey_ (ATUS) dataset is collected and maintained by the
     One hot encoding and sorting variable dimensions based on CORR using both MCA and groupby to select target populations (Appendix B) 
     Identifying variable dimensions that are >1 standard deviation above the mean (top16) or in the top quartile (top25) based on CORR value counts 
     Creating calculated field RANK to quickly separate top16 and top25 populations 
-
-_(Note: source data is not included in this repository as it exceeds github's filesize limits)_
 
 The research question is answered using an Ordinary Least Squares multilinear regression model (Appendix C). Using a 30/70 train/test split on the full dataset, PEHRUSLT (usual hours worked per week at all jobs; 0-150 continuous) is analyzed against rank, year, and telework variables. The model’s RMSE is 10.4 hours and the mean error of the training model’s predictions against the test set is 5.5 hours. According to this model, RANK is statistically significant in predicting hours worked across the dataset, meaning that the target populations do participate in the workforce at different rates than the whole population. 
 
