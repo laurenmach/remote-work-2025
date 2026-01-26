@@ -56,7 +56,7 @@ calculated-calculated variable\
 1-used for data cleaning/formatting\
 2-used for population selection\
 3-used for regression\
-4-included for supplemental illustration only\
+4-included for supplemental illustration only
 
 TUCASEID	id	1\
 TULINENO	id	1\
@@ -95,11 +95,11 @@ PEDISEYE	cat	2\
 PEDISOUT	cat	2\
 PEDISPHY	cat	2\
 PEDISREM	cat	2\
-PEERNCOV	cat	2\	
-PEERNHRY	cont	2\		
-PEGRPROF	cat	2\	
+PEERNCOV	cat	2\
+PEERNHRY	cont	2\
+PEGRPROF	cat	2\
 PEHSPNON	cat	2\
-PEMARITL	cat	2\	
+PEMARITL	cat	2\
 PEMJOT	cat	2\
 PESEX	cat	2\
 PRCITSHP	cat	2\
