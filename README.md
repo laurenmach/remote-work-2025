@@ -47,7 +47,7 @@ These findings have several key implications for businesses. Expanding telework 
 
 ## Appendix A: Variables
 
-###Key:
+### Key:
 id-unique identifier
 cat-categorical variable
 cont-continuous variable
@@ -58,103 +58,103 @@ calculated-calculated variable
 3-used for regression	
 4-included for supplemental illustration only
 
-TUCASEID	id	1			
-TULINENO	id	1			
-HRYEAR4	id	1,2,3
-PEAFNOW	cat	1			
-PEMLR	cat	1,2,3
-PEHRWANT	cat	1,2		
-PESCHENR	cat	1			
-PEDWWNTO	cat	1,2		
-TELE2019	cat	1,2,3
-TELECOVID	cat	1,2,3
-TELENOW	cat	1,2,3
-EMPA	calculated	1			
-EMPB	calculated	1			
-EMPC	calculated	1			
-EMPD	calculated	1			
-EMPSTAT	calculated	1,2	
-TELEALL	calculated	1,2		
-CORR	calculated	1,2		
-GESTFIPS	cat		2		
-GTMETSTA	cat		2		
-HEHOUSUT	cat		2		
-HETENURE	cat		2		
-HRHTYPE	cat		2		
-HRNUMHOU_c	cont>cat		2		
-HUSPNISH	cat		2		
-PEABSRSN	cat		2		
-PEAFEVER	cat		2		
-PECERT1	cat		2		
-PECERT3	cat		2		
-PECYC	cat		2		
-PEDIPGED	cat		2		
-PEDISDRS	cat		2		
-PEDISEAR	cat		2		
-PEDISEYE	cat		2		
-PEDISOUT	cat		2		
-PEDISPHY	cat		2		
-PEDISREM	cat		2		
-PEERNCOV	cat		2		
-PEERNHRY	cont		2		
-PEGRPROF	cat		2		
-PEHSPNON	cat		2		
-PEMARITL	cat		2		
-PEMJOT	cat		2		
-PESEX	cat		2		
-PRCITSHP	cat		2		
-PRDISFLG	cat		2		
-PRERNHLY_c	cont>cat		2		
-PRMARSTA	cat		2		
-PRNMCHLD_c	cont>cat		2		
-PRTAGE_c	cont>cat		2		
-PTDTRACE	cat		2		
-PUAFEVER	cat		2		
-PUBUS1	cat		2		
-PEDW4WK	cat	4
-PEDWAVL	cat	4
-PEDWAVR	cat	4
-PEDWLKO	cat	4
-PEDWWK	cat	4
-PEHRACT1	cat	4
-PEHRACT2	cat	4
-PEHRACTT	cat	4
-PEHRAVL	cat	4
-PEHRFTPT	cat	4
-PEHRRSN1	cat	4
-PEHRRSN2	cat	4
-PEHRRSN3	cat	4
-PEHRUSL1	cont	4
-PEHRUSL2	cont	4
-PEHRUSLT	cont	3	
-PEJHWKO	cat	4
-PENLFACT	cat	4
-PENLFJH	cat	4
-PENLFRET	cat	4
-PERET1	cat	4
-PRABSREA	cat	4
-PREMP	cat	4
-PREMPHRS	cat	4
-PREMPNOT	cat	4
-PRFTLF	cat	4
-PRHRUSL	cat	4
-PRNLFSCH	cat	4
-PRPTHRS	cat	4
-PRPTREA	cat	4
-PRSJMJ	cat	4
-PRWKSCH	cat	4
-PRWKSTAT	cat	4
-PRWNTJOB	cat	4
-PTCOVID1	cat	1,2	
-PTCOVID2	cat	4
-PTCOVR1	cat	1,2		
-PTCOVR2	cat	4
-PTCOVR3	cat	1,2		
-PTCOVR4	cat	4
-PUABSOT	cat	4
-PUDIS	cat	4
-PUDIS1	cat	4
-PUDIS2	cat	4
-PURETOT	cat	4
-PUWK	cat	4
+TUCASEID	id	1\	
+TULINENO	id	1\
+HRYEAR4	id	1,2,3\
+PEAFNOW	cat	1\
+PEMLR	cat	1,2,3\
+PEHRWANT	cat	1,2\
+PESCHENR	cat	1\
+PEDWWNTO	cat	1,2\
+TELE2019	cat	1,2,3\
+TELECOVID	cat	1,2,3\
+TELENOW	cat	1,2,3\
+EMPA	calculated	1\			
+EMPB	calculated	1\			
+EMPC	calculated	1\			
+EMPD	calculated	1\			
+EMPSTAT	calculated	1,2\	
+TELEALL	calculated	1,2	\	
+CORR	calculated	1,2	\	
+GESTFIPS	cat	2\	
+GTMETSTA	cat	2\
+HEHOUSUT	cat	2\	
+HETENURE	cat	2\
+HRHTYPE	cat	2\
+HRNUMHOU_c	cont>cat	2\
+HUSPNISH	cat	2\	
+PEABSRSN	cat	2\
+PEAFEVER	cat	2\
+PECERT1	cat	2\
+PECERT3	cat	2\
+PECYC	cat	2\
+PEDIPGED	cat	2\	
+PEDISDRS	cat	2\	
+PEDISEAR	cat	2\
+PEDISEYE	cat		2	\	
+PEDISOUT	cat		2	\	
+PEDISPHY	cat		2	\	
+PEDISREM	cat		2	\	
+PEERNCOV	cat		2	\	
+PEERNHRY	cont		2\		
+PEGRPROF	cat		2	\	
+PEHSPNON	cat		2	\	
+PEMARITL	cat		2	\	
+PEMJOT	cat		2		\
+PESEX	cat		2		\
+PRCITSHP	cat	2\	
+PRDISFLG	cat	2\	
+PRERNHLY_c	cont>cat	2\
+PRMARSTA	cat	2\
+PRNMCHLD_c	cont>cat	2\		
+PRTAGE_c	cont>cat	2\	
+PTDTRACE	cat	2\
+PUAFEVER	cat	2\
+PUBUS1	cat	2\
+PEDW4WK	cat	4\
+PEDWAVL	cat	4\
+PEDWAVR	cat	4\
+PEDWLKO	cat	4\
+PEDWWK	cat	4\
+PEHRACT1	cat	4\
+PEHRACT2	cat	4\
+PEHRACTT	cat	4\
+PEHRAVL	cat	4\
+PEHRFTPT	cat	4\
+PEHRRSN1	cat	4\
+PEHRRSN2	cat	4\
+PEHRRSN3	cat	4\
+PEHRUSL1	cont	4\
+PEHRUSL2	cont	4\
+PEHRUSLT	cont	3\	
+PEJHWKO	cat	4\
+PENLFACT	cat	4\
+PENLFJH	cat	4\
+PENLFRET	cat	4\
+PERET1	cat	4\
+PRABSREA	cat	4\
+PREMP	cat	4\
+PREMPHRS	cat	4\
+PREMPNOT	cat	4\
+PRFTLF	cat	4\
+PRHRUSL	cat	4\
+PRNLFSCH	cat	4\
+PRPTHRS	cat	4\
+PRPTREA	cat	4\
+PRSJMJ	cat	4\
+PRWKSCH	cat	4\
+PRWKSTAT	cat	4\
+PRWNTJOB	cat	4\
+PTCOVID1	cat	1,2\	
+PTCOVID2	cat	4\
+PTCOVR1	cat	1,2	\	
+PTCOVR2	cat	4\
+PTCOVR3	cat	1,2\		
+PTCOVR4	cat	4\
+PUABSOT	cat	4\
+PUDIS	cat	4\
+PUDIS1	cat	4\
+PUDIS2	cat	4\
+PURETOT	cat	4\
+PUWK	cat	4\
 rank	calculated	1,3	
