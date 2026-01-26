@@ -10,6 +10,10 @@ The /MCA folder contains the output eigenvalues and MCA data.
 
 The /variables folder containes limited variable data. Original data files, even broken down into sections, exceed the upload limits. Source data can be downloaded directly from public Bureau of Labor Statistics archives and [extracted](/code/1-thesis-extract-data.ipynb)
 
+## Tableau Presentation
+
+[_Regression Analysis of Remote Work Participation_](https://public.tableau.com/app/profile/lauren.mach/viz/RegressionAnalysisofRemoteWorkParticipation/intro)
+
 ## Executive Summary 
 
 Since 2019, businesses’ approach to telework has shifted dramatically. Conversations about whether to allow telework (either in a fully remote or hybrid posture) often center on team dynamics, job requirements, competitor policy, or company culture. Less considered is how telework options change the makeup of the labor pool itself. When deciding to allow telework, business leaders may assume a team is made of the same people whether they are at home or in the office. But is that true? The hypothesis of this study is that the availability of telework (including hybrid work) increases key populations’ participation in the workforce. In other words, for these populations, telework policies don’t just impact where they work, they impact how much or even whether they are participating in the workforce at all.  
