@@ -158,3 +158,53 @@ PUDIS2	cat	4\
 PURETOT	cat	4\
 PUWK	cat	4\
 rank	calculated	1,3	
+
+## Appendix B: Target Populations
+
+### Top16 – Variables >1 standard deviation above mean in CORR=1 rate
+
+For each: Variable_dimension; % of variable where CORR=1; Description 
+
+PEDISDRS_1 	86.03% 	disability: difficulty dressing or bathing \
+PEDISOUT_1 	81.29% 	disability: difficulty running errands or going out alone \
+PEDISPHY_1 	76.69% 	disability: serious difficulty walking or going up stairs \
+PTDTRACE_6 	72.85% 	white-Black \
+PTDTRACE_8 	70.22% 	white-Asian \
+PEDISREM_1 	68.69% 	disability: serious cognitive or memory difficulties \
+HRHTYPE_2 	67.19% 	husband/wife primary family in Armed Forces \
+PRDISFLG_1 	64.84% 	any disability \
+HRNUMHOU_c_6 	64.73% 	household size >9 \
+PEDISEYE_1 	64.24% 	disability: serious difficulty with vision \
+HRNUMHOU_c_5 	63.38% 	household size 7-8 
+
+### Top25 – in addition to above; variables in the top quartile of CORR=1 rate
+
+For each: Variable_dimension; % of variable where CORR=1; Description
+
+HRNUMHOU_c_4 	61.49% 	household size 5-6 \
+PTDTRACE_7 	61.31% 	white-Native \
+HRHTYPE_4 	59.41% 	female civilian head of household \
+PRNMCHLD_c_1 	58.83% 	no children \
+HEHOUSUT_5 	56.48% 	mobile home or trailer with no permanent rooms \
+GESTFIPS_28 	55.77% 	MS \
+HEHOUSUT_6 	54.73% 	mobile home or trailer w/room(s) added \
+HETENURE_2 	54.51% 	rent home \
+PTDTRACE_2 	54.38% 	Black \
+PTDTRACE_3 	54.13% 	Native \
+GESTFIPS_56 	54.10% 	WY \
+GESTFIPS_2 	54.00% 	AK \
+HETENURE_3 	53.99% 	housing not owned and no cash rent paid \
+PRCITSHP_1 	53.93% 	US-born citizen \
+GESTFIPS_21 	53.91% 	KY \
+GESTFIPS_23 	53.85% 	ME \
+GESTFIPS_22 	53.72% 	LA \
+GESTFIPS_19 	53.49% 	IA \
+HRHTYPE_3 	53.43% 	civilian male head of household \
+GESTFIPS_5 	53.29% 	AR \
+PESEX_1 	53.26% 	male \
+GTMETSTA_2 	53.20% 	non-metro area \
+GESTFIPS_47 	53.06% 	TN \
+PEHSPNON_1 	52.90% 	Hispanic/Latino \
+GESTFIPS_40 	52.83% 	OK \
+GESTFIPS_20 	52.78% 	KS \
+HRNUMHOU_c_3 	52.72% 	household size 3-4 
