@@ -8,7 +8,7 @@ The /OLS folder contains the results of the Ordinary Least Squares linear regres
 
 The /MCA folder contains the output eigenvalues and MCA data.
 
-The /variables folder containes limited variable data. Original data files, even broken down into sections, exceed the upload limits. Source data can be downloaded directly from public Bureau of Labor Statistics archives and extracted using /code/1-thesis-extract-data.ipynb 
+The /variables folder containes limited variable data. Original data files, even broken down into sections, exceed the upload limits. Source data can be downloaded directly from public Bureau of Labor Statistics archives and [extracted](/code/1-thesis-extract-data.ipynb)
 
 ## Executive Summary 
 
